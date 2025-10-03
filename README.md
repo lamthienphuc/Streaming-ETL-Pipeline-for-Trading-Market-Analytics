@@ -79,9 +79,9 @@ Below is the high-level architecture of the project:
 
 📆 **Project Structure (Simplified)**
 
-├── dags/ # Airflow DAGs (to be implemented)
-├── scripts/ # Python ingestion scripts
-├── config/ # API + Kafka config JSONs
+├── DAGs/ # Airflow DAGs (to be implemented)
+├── src scripts/ # Python ingestion scripts
+├── configuration/ # API + Kafka config JSONs
 ├── logs/ # Airflow logs
 ├── requirements.txt # Python dependencies
 ├── Dockerfile # For custom ingestion container
