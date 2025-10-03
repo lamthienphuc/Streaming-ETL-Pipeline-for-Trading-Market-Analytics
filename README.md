@@ -92,17 +92,6 @@ Below is the high-level architecture of the project:
 
 ---
 
-✅ **What's Next**
-
-- **Spark Structured Streaming**: Consume and transform Kafka data.
-- **Store Processed Data in MinIO**: Save intermediate results in Parquet format.
-- **Archive and Compact Topics**: Manage Kafka topics efficiently.
-- **Export Processed Data to Snowflake**: Use Airflow to load data into Snowflake.
-- **Orchestrate Ingestion + ETL in Airflow DAGs**: Automate the entire pipeline.
-- **Optional Cloud Deployment**: Deploy on ECS / EC2 / Azure.
-
----
-
 🔎 **Screenshots (To Add)**
 - Airflow UI
 - MinIO bucket structure
@@ -111,6 +100,11 @@ Below is the high-level architecture of the project:
 
 ---
 
-📅 **Maintained by**
+✅ **What's Next**
 
-Lam Thien Phuc
+- **Spark Structured Streaming**: Consume and transform Kafka data.
+- **Store Processed Data in MinIO**: Save intermediate results in Parquet format.
+- **Archive and Compact Topics**: Manage Kafka topics efficiently.
+- **Export Processed Data to Snowflake**: Use Airflow to load data into Snowflake.
+- **Orchestrate Ingestion + ETL in Airflow DAGs**: Automate the entire pipeline.
+- **Optional Cloud Deployment**: Deploy on ECS / EC2 / Azure.
