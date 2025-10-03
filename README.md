@@ -42,7 +42,8 @@ This project is a real-time data streaming pipeline for stock market data. We in
 
 Below is the high-level architecture of the project:
 
-![Project Architecture](Project Instruction and Diagram/project_architecture.jpeg)
+![project_architecture](https://github.com/user-attachments/assets/1f247bbd-1bf2-4856-8955-c7cfc42c829a)
+
 
 ---
 
